@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahdi Najafi Pasand
+- 👋 Hi, I’m Mahdi Najafi
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Asp.Net Core
 - 📫 How to reach me @Mehti_hex in telegram and instagram
